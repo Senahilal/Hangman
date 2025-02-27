@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stages>
+    <stage>
+        <name>Stage 1</name>
+        <filename>hhhhh1</filename>
+    </stage>
+    <stage>
+        <name>Stage 2</name>
+        <filename>hhhhh2</filename>
+    </stage>
+    <stage>
+        <name>Stage 3</name>
+        <filename>hhhhh3</filename>
+    </stage>
+    <stage>
+        <name>Stage 4</name>
+        <filename>hhhhh4</filename>
+    </stage>
+    <stage>
+        <name>Stage 5</name>
+        <filename>hhhhh5</filename>
+    </stage>
+    <stage>
+        <name>Stage 6</name>
+        <filename>hhhhh6</filename>
+    </stage>
+    <stage>
+        <name>Stage 7</name>
+        <filename>hhhhh7</filename>
+    </stage>
+
+</stages>
